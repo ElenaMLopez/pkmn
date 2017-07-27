@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+li {
+  list-style: none;
+  display: inline-block; }
+
+.card {
+  display: inline-block;
+  border: 1px solid; }
+
+/*# sourceMappingURL=index.css.map */
