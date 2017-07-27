@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Search extends Component {
 
-  handleChange = (event) => {
+  handleChange(event) {
     this.props.onFilterChange(event.target.value);
   }
 
